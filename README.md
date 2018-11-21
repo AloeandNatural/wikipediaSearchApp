@@ -1,5 +1,5 @@
-# Wikipedia Seartch App
-## A Wikipedia Search Engine built for the FreeCodeCamp front-end certificate
+# Wikipedia Search App
+#### A Wikipedia Search Engine built for the FreeCodeCamp front-end certificate
 
 ## Built With
 * HTML5
